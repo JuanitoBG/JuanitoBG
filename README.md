@@ -7,9 +7,13 @@ Hello! I'm Juan Luis Benítez, a junior data scientist with a passion for techno
 I have experience in different data science phases:
 
 -Business Understanding
+
 -Data Understanding
+
 -Data preparation
+
 -Modeling
+
 -Evaluation
 
 I also have experience using data science tools such as:
